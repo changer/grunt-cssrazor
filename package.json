@@ -31,9 +31,9 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt": "latest",
-    "grunt-contrib": "latest",
-    "node-phantom-simple": "latest"
+    "grunt": "0.4.2",
+    "grunt-contrib": "0.8.0",
+    "node-phantom-simple": "1.0.x"
   },
   "keywords": [
     "gruntplugin"
